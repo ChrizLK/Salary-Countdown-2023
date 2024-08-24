@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podda3", "Podda3\Podda3.csproj", "{62D38F07-6369-4AE6-A6A7-60D796D1EBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalcalEnt", "SalcalEnt\SalcalEnt.csproj", "{6DC434EB-B132-4554-834F-00874645927D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D38F07-6369-4AE6-A6A7-60D796D1EBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D38F07-6369-4AE6-A6A7-60D796D1EBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D38F07-6369-4AE6-A6A7-60D796D1EBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D38F07-6369-4AE6-A6A7-60D796D1EBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC434EB-B132-4554-834F-00874645927D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC434EB-B132-4554-834F-00874645927D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC434EB-B132-4554-834F-00874645927D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC434EB-B132-4554-834F-00874645927D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
